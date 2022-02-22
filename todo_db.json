@@ -1,0 +1,2774 @@
+{
+  "todo_tomorrow": {},
+  "todo_history": {
+    "1": {
+      "date": "2021/07/23",
+      "time_morning": "11:29",
+      "time_evening": "14:38",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "setup python env"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "setup st4 user env"
+        }
+      ]
+    },
+    "2": {
+      "date": "2021/07/26",
+      "time_morning": "11:26",
+      "time_evening": "10:57",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] run mbist batch sim using random"
+        }
+      ]
+    },
+    "3": {
+      "date": "2021/07/27",
+      "time_morning": "10:58",
+      "time_evening": "18:33",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] reproduce failed testcases"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] fix coding style"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] fix mbist bug"
+        }
+      ]
+    },
+    "4": {
+      "date": "2021/07/28",
+      "time_morning": "11:32",
+      "time_evening": "18:07",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] fix MBIST bug"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting] talk to Vered"
+        }
+      ]
+    },
+    "5": {
+      "date": "2021/07/29",
+      "time_morning": "10:46",
+      "time_evening": "13:37",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "learn ROIC tests"
+        }
+      ]
+    },
+    "6": {
+      "date": "2021/07/30",
+      "time_morning": "10:42",
+      "time_evening": "16:26",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] fix MBIST bug"
+        }
+      ]
+    },
+    "7": {
+      "date": "2021/08/02",
+      "time_morning": "10:59",
+      "time_evening": "19:12",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] debug MBIST bew version"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] arrange git repo"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC test patterns dev"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] MBIST new version: bugfix"
+        }
+      ]
+    },
+    "8": {
+      "date": "2021/08/03",
+      "time_morning": "10:18",
+      "time_evening": "19:50",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC test patterns dev: crc implement"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] handle MBIST tests"
+        }
+      ]
+    },
+    "9": {
+      "date": "2021/08/04",
+      "time_morning": "10:56",
+      "time_evening": "19:35",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] ROIC test patterns dev: python crc implement"
+        }
+      ]
+    },
+    "10": {
+      "date": "2021/08/05",
+      "time_morning": "11:26",
+      "time_evening": "10:13",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] ROIC test patterns dev: python crc imple"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] handle MBIST tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[off] Linkedin update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] ROIC test patterns dev: learn Cisco coding style"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] ROIC test patterns dev: rtl impl ('reader' module update)"
+        }
+      ]
+    },
+    "11": {
+      "date": "2021/08/06",
+      "time_morning": "10:20",
+      "time_evening": "18:15",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] ROIC test patterns dev: rtl impl ('reader' module update)"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] ROIC test patterns dev: learn 'writer' test patterns howtodo"
+        }
+      ]
+    },
+    "12": {
+      "date": "2021/08/09",
+      "time_morning": "11:17",
+      "time_evening": "18:17",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC test patterns dev: learn how 'writer' & 'pix' work"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] handle MBIST tests"
+        }
+      ]
+    },
+    "13": {
+      "date": "2021/08/10",
+      "time_morning": "09:20",
+      "time_evening": "18:47",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] handle repo"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] [ROIC test patterns] 'writer' test patterns rtl impl"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [ROIC test patterns] learn how 'writer' & 'pix' work, talk to Vered"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] rearrange scipts: split func and data"
+        }
+      ]
+    },
+    "14": {
+      "date": "2021/08/11",
+      "time_morning": "10:08",
+      "time_evening": "17:31",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] [ROIC TB] 'ROIC' TB for 'test patterns' impl"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] setup build sys"
+        }
+      ]
+    },
+    "15": {
+      "date": "2021/08/12",
+      "time_morning": "09:52",
+      "time_evening": "18:45",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] [ROIC TB] 'ROIC' TB for 'test patterns' impl"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC TB] Make TTB running"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] [ROIC TB] Add timestamp bias compensation"
+        }
+      ]
+    },
+    "16": {
+      "date": "2021/08/13",
+      "time_morning": "09:27",
+      "time_evening": "18:18",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] [MBIST] fix MBIST tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC TB] fix 'write X data' sim issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] [ROIC TB] 'ROIC' TB for 'test patterns' impl"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] Fix ST version & Screen saver issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] install/setup dcommander"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [ROIC TB] fix '3 samples measured' sim issues"
+        }
+      ]
+    },
+    "17": {
+      "date": "2021/08/16",
+      "time_morning": "10:48",
+      "time_evening": "18:29",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [MBIST] fix issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] [Hydra] learn code"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] upload mbist to sos"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] setup sos access"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[hr]"
+        }
+      ]
+    },
+    "18": {
+      "date": "2021/08/17",
+      "time_morning": "10:42",
+      "time_evening": "18:30",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[env] centos env setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[hr]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[ROIC] learn last code update"
+        }
+      ]
+    },
+    "19": {
+      "date": "2021/08/18",
+      "time_morning": "11:16",
+      "time_evening": "19:21",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[ROIC] learn last code update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[ROIC NEW RTL] elaborate top level"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[ROIC] integrate test pattens modifications"
+        }
+      ]
+    },
+    "20": {
+      "date": "2021/08/19",
+      "time_morning": "10:41",
+      "time_evening": "18:48",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[ROIC NEW RTL] elaborate top level"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[ROIC TB RTL NEW] run TB"
+        }
+      ]
+    },
+    "21": {
+      "date": "2021/08/20",
+      "time_morning": "10:39",
+      "time_evening": "18:37",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 12,
+          "task": "[ROIC TB RTL NEW] run TB"
+        }
+      ]
+    },
+    "22": {
+      "date": "2021/08/25",
+      "time_morning": "12:26",
+      "time_evening": "19:07",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[ROIC TB NEW] Fix issue with 'xxx' value in frame"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] Add Sublime Context Build menu"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[TB] Implement log function"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[ROIC TB NEW] Handle errors by assertions"
+        }
+      ]
+    },
+    "23": {
+      "date": "2021/08/26",
+      "time_morning": "11:33",
+      "time_evening": "19:05",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] install bcompare"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[ROIC RTL] Compare versions"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[ROIC RTL] Fix 'zeroes' issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[ROIC TB NEW] Impl tests for 'test patterns'"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup st4"
+        }
+      ]
+    },
+    "24": {
+      "date": "2021/08/27",
+      "time_morning": "10:57",
+      "time_evening": "20:06",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[ROIC TB NEW] Fix ddr_trx"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[ROIC TB NEW] Impl tests for 'test patterns'"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[ROIC RTL NEW] Fix crc pattern test"
+        }
+      ]
+    },
+    "25": {
+      "date": "2021/08/30",
+      "time_morning": "11:46",
+      "time_evening": "19:02",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[ROIC RTL] Impl 'framed test patterns'"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[ROIC TB NEW] Impl tests for 'framed test patterns'"
+        }
+      ]
+    },
+    "26": {
+      "date": "2021/08/31",
+      "time_morning": "10:40",
+      "time_evening": "19:36",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [ROIC RTL NEW] learn how mce works"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting] ROIC"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 10,
+          "task": "[ROIC TB NEW] Impl tests for 'framed test patterns'"
+        }
+      ]
+    },
+    "27": {
+      "date": "2021/09/01",
+      "time_morning": "10:31",
+      "time_evening": "15:47",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup bluetooth sys"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [ROIC RTL NEW] check new rtl differences"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] [ROIC RTL NEW] integrate test patterns"
+        }
+      ]
+    },
+    "28": {
+      "date": "2021/09/02",
+      "time_morning": "10:06",
+      "time_evening": "18:33",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "ROIC RTL NEW] Update TB to new 'SPI regs' func"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "ROIC RTL NEW] check 'framed tests x-ouput issue'"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[ROIC RTL NEW] Add start pause to Mbist"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[ROIC RTL NEW] Check last RTL update"
+        }
+      ]
+    },
+    "29": {
+      "date": "2021/09/03",
+      "time_morning": "09:45",
+      "time_evening": "19:00",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] sos fix"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[learn] Cadence HAL"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[meeting] [ROIC RTL NEW] Write mails about RTL"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] [ROIC RTL NEW] Run static HAL checks"
+        }
+      ]
+    },
+    "30": {
+      "date": "2021/09/06",
+      "time_morning": "10:17",
+      "time_evening": "18:50",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[env] setup build output coloring | 4"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] check Vered modifications"
+        }
+      ]
+    },
+    "31": {
+      "date": "2021/09/07",
+      "time_morning": "10:36",
+      "time_evening": "19:08",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 12,
+          "task": "[dev] [ROIC RTL NEW] Modify 'framed test patterns'"
+        }
+      ]
+    },
+    "32": {
+      "date": "2021/09/08",
+      "time_morning": "11:53",
+      "time_evening": "19:27",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] [TB] update ddr_trx to work wo word enable signal"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC RTL NEW] verify 'framed test patterns' new impl"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] [ROIC RTL] fix 'test pattern' HAL issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[env] setup HAL log navigation"
+        }
+      ]
+    },
+    "33": {
+      "date": "2021/09/09",
+      "time_morning": "10:43",
+      "time_evening": "16:51",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] [ROIC RTL NEW] Modify 'framed test patterns'"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [MBIST] fix HAL lint issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] [ROIC]  linting"
+        }
+      ]
+    },
+    "34": {
+      "date": "2021/09/10",
+      "time_morning": "10:26",
+      "time_evening": "18:41",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC TB] learn ROIC TB from Vered"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[team] send status mail"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC] cleanup code and upload to SOS"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] [ROIC TB] Verilog TB impl for unframed tests"
+        }
+      ]
+    },
+    "35": {
+      "date": "2021/09/13",
+      "time_morning": "10:42",
+      "time_evening": "18:37",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] impl: ROIC SPI TB Engine"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] learn ROIC SPI stuff"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[meeting]"
+        }
+      ]
+    },
+    "36": {
+      "date": "2021/09/14",
+      "time_morning": "10:17",
+      "time_evening": "19:47",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] impl: ROIC SPI TB Engine (fix message bug)"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] fix 'st4-py scrpt' exit issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] impl: all regs write"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] find out SPI RTL issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] ST4 log highlight setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] hal check: ROIC"
+        }
+      ]
+    },
+    "37": {
+      "date": "2021/09/15",
+      "time_morning": "10:50",
+      "time_evening": "18:23",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[env] ST4 log highlight setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[team] write mail with spi issues"
+        }
+      ]
+    },
+    "38": {
+      "date": "2021/09/16",
+      "time_morning": "11:46",
+      "time_evening": "18:40",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] check sos update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] ST4 setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[team] write mail with spi issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] impl: spi vtb/tests"
+        }
+      ]
+    },
+    "39": {
+      "date": "2021/09/17",
+      "time_morning": "10:52",
+      "time_evening": "19:03",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] impl: spi vtb/tests commit"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] verify: SOS update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup Centos bool load"
+        }
+      ]
+    },
+    "40": {
+      "date": "2021/09/20",
+      "time_morning": "11:09",
+      "time_evening": "19:15",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] verify: SOS update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] update SPI TB"
+        }
+      ]
+    },
+    "41": {
+      "date": "2021/09/21",
+      "time_morning": "10:46",
+      "time_evening": "18:20",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "dev] update SPI TB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] check orig version of SPI"
+        }
+      ]
+    },
+    "42": {
+      "date": "2021/09/22",
+      "time_morning": "10:44",
+      "time_evening": "19:01",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] update sos"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[meeting]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Align test pattern TB to current concept"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] deebug RTL SPI engine"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] Add counter based on MCE to TB"
+        }
+      ]
+    },
+    "43": {
+      "date": "2021/09/23",
+      "time_morning": "10:43",
+      "time_evening": "18:47",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[team] sync to SOS"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Add counter based on MCE to TB"
+        }
+      ]
+    },
+    "44": {
+      "date": "2021/09/24",
+      "time_morning": "11:28",
+      "time_evening": "19:13",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] Add counter based on MCE to TB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] Add tests"
+        }
+      ]
+    },
+    "45": {
+      "date": "2021/09/28",
+      "time_morning": "11:06",
+      "time_evening": "18:11",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] Add SHORT MCE tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] Add ARM WIDTH tests: fix stuck issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Add 2 MCE tests"
+        }
+      ]
+    },
+    "46": {
+      "date": "2021/09/29",
+      "time_morning": "15:39",
+      "time_evening": "19:57",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] add pomodoro applet"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] tests"
+        }
+      ]
+    },
+    "47": {
+      "date": "2021/09/30",
+      "time_morning": "11:14",
+      "time_evening": "18:38",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] check_spi_regs: fix issues"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] prepare example of finished test"
+        }
+      ]
+    },
+    "48": {
+      "date": "2021/10/01",
+      "time_morning": "11:14",
+      "time_evening": "19:38",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] test exa: add given signals to wave and run over all possible anode bias values"
+        }
+      ]
+    },
+    "49": {
+      "date": "2021/10/04",
+      "time_morning": "11:12",
+      "time_evening": "19:24",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] run & commit anode bias test"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] prepare exa with screenshot"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[team] fill test list"
+        }
+      ]
+    },
+    "50": {
+      "date": "2021/10/05",
+      "time_morning": "10:35",
+      "time_evening": "17:57",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] test pattern screenshots"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] test"
+        }
+      ]
+    },
+    "51": {
+      "date": "2021/10/06",
+      "time_morning": "10:50",
+      "time_evening": "19:42",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] tests"
+        }
+      ]
+    },
+    "52": {
+      "date": "2021/10/07",
+      "time_morning": "10:58",
+      "time_evening": "17:15",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] check analog signals"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] tests"
+        }
+      ]
+    },
+    "53": {
+      "date": "2021/10/08",
+      "time_morning": "14:16",
+      "time_evening": "20:23",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] finish rdout_dir test"
+        }
+      ]
+    },
+    "54": {
+      "date": "2021/10/11",
+      "time_morning": "10:02",
+      "time_evening": "18:56",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] rest of tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] mbist test"
+        }
+      ]
+    },
+    "55": {
+      "date": "2021/10/12",
+      "time_morning": "10:02",
+      "time_evening": "20:15",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 11,
+          "task": "[dev] mbist test"
+        }
+      ]
+    },
+    "56": {
+      "date": "2021/10/13",
+      "time_morning": "11:55",
+      "time_evening": "20:20",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] mbist test"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[doc] prepare test list doc"
+        }
+      ]
+    },
+    "57": {
+      "date": "2021/10/18",
+      "time_morning": "11:09",
+      "time_evening": "19:12",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] check SOS update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup github authentification"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] merge SOS update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] update tb according to Vered req"
+        }
+      ]
+    },
+    "58": {
+      "date": "2021/10/19",
+      "time_morning": "10:52",
+      "time_evening": "19:15",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[team] MBIST discuss"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] update tb according to Vered req"
+        }
+      ]
+    },
+    "59": {
+      "date": "2021/10/20",
+      "time_morning": "10:35",
+      "time_evening": "18:27",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] update tb according to Vered req"
+        }
+      ]
+    },
+    "60": {
+      "date": "2021/10/21",
+      "time_morning": "11:40",
+      "time_evening": "19:28",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] debug SPI status bit"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Update MBIST"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] check for class support"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup"
+        }
+      ]
+    },
+    "61": {
+      "date": "2021/10/22",
+      "time_morning": "11:24",
+      "time_evening": "19:50",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[learn] semiconductor vendors"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] Update MBIST TB"
+        }
+      ]
+    },
+    "62": {
+      "date": "2021/10/25",
+      "time_morning": "10:44",
+      "time_evening": "19:02",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] fix spi issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Update MBIST TB: check faults detected"
+        }
+      ]
+    },
+    "63": {
+      "date": "2021/10/26",
+      "time_morning": "10:31",
+      "time_evening": "19:00",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] fix spi issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] Update MBIST TB: check faults detected"
+        }
+      ]
+    },
+    "64": {
+      "date": "2021/10/27",
+      "time_morning": "10:18",
+      "time_evening": "19:35",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] Check SPI issue fix"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] Update MBIST TB"
+        }
+      ]
+    },
+    "65": {
+      "date": "2021/11/01",
+      "time_morning": "11:50",
+      "time_evening": "18:24",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Update MBIST TB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[learn] cpu arch"
+        }
+      ]
+    },
+    "66": {
+      "date": "2021/11/02",
+      "time_morning": "09:55",
+      "time_evening": "19:43",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] cpu"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[team] talk to Vered about tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] Fix MBIST"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Verilg tests"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] learn cadence lic"
+        }
+      ]
+    },
+    "67": {
+      "date": "2021/11/03",
+      "time_morning": "11:27",
+      "time_evening": "17:54",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] bcompare hack"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC VTB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[learn] sv + python integration"
+        }
+      ]
+    },
+    "68": {
+      "date": "2021/11/04",
+      "time_morning": "10:52",
+      "time_evening": "19:27",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] sync to SOS"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[learn] STA"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Add time out feature to MBIST"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] install cocoTB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[learn] cocoTB"
+        }
+      ]
+    },
+    "69": {
+      "date": "2021/11/05",
+      "time_morning": "10:38",
+      "time_evening": "18:18",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[learn] cocotb"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC TB"
+        }
+      ]
+    },
+    "70": {
+      "date": "2021/11/09",
+      "time_morning": "10:41",
+      "time_evening": "19:25",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 10,
+          "task": "learn] python coroutines"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] check ddr output"
+        }
+      ]
+    },
+    "71": {
+      "date": "2021/11/10",
+      "time_morning": "10:15",
+      "time_evening": "19:23",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[team] sync"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] cocotb"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 10,
+          "task": "[dev] Fix ROIC TB test patterns"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] python event loops"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] update test scripts"
+        }
+      ]
+    },
+    "72": {
+      "date": "2021/11/11",
+      "time_morning": "11:39",
+      "time_evening": "18:01",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[team] rois update discuss"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] update test scripts"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] check new SPI func"
+        }
+      ]
+    },
+    "73": {
+      "date": "2021/11/12",
+      "time_morning": "10:37",
+      "time_evening": "17:13",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] check run test issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] check new SPI func"
+        }
+      ]
+    },
+    "74": {
+      "date": "2021/11/15",
+      "time_morning": "10:50",
+      "time_evening": "19:10",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[learn] coco tb"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] debug ROIC test"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] Talk about SPI-on-fly func: update REG when MCE is low, no 2 updates in parallel"
+        }
+      ]
+    },
+    "75": {
+      "date": "2021/11/16",
+      "time_morning": "11:00",
+      "time_evening": "18:32",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[deb] ROIC TB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting] Vered"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[pri]"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] Update run scripts"
+        }
+      ]
+    },
+    "76": {
+      "date": "2021/11/17",
+      "time_morning": "10:43",
+      "time_evening": "19:06",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 12,
+          "task": "[learn] setup/run coco tb"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] ROIC TB"
+        }
+      ]
+    },
+    "77": {
+      "date": "2021/11/18",
+      "time_morning": "10:34",
+      "time_evening": "17:30",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] ROIC CocoTB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] SPI VTB"
+        }
+      ]
+    },
+    "78": {
+      "date": "2021/11/19",
+      "time_morning": "10:49",
+      "time_evening": "19:21",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] SPI VTB: add probes"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] SPI VTB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] ROIC CocoTB"
+        }
+      ]
+    },
+    "79": {
+      "date": "2021/11/22",
+      "time_morning": "11:39",
+      "time_evening": "18:48",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[env] update python color highlight"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] ROIC CocoTB: fix SPI build issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC CocoTB: SPI bus agent"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] Fix python run script"
+        }
+      ]
+    },
+    "80": {
+      "date": "2021/11/23",
+      "time_morning": "11:41",
+      "time_evening": "17:56",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC CocoTB: SPI bus agent"
+        }
+      ]
+    },
+    "81": {
+      "date": "2021/11/24",
+      "time_morning": "10:45",
+      "time_evening": "18:57",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] ROIC CocoTB: SPI bus agent, str probe"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 13,
+          "task": "[dev] ROIC CocoTB: SPI bus agent"
+        }
+      ]
+    },
+    "82": {
+      "date": "2021/11/25",
+      "time_morning": "10:55",
+      "time_evening": "18:43",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC CocoTB: SPI bus agent"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC CocoTB: SPI bus test"
+        }
+      ]
+    },
+    "83": {
+      "date": "2021/11/29",
+      "time_morning": "09:50",
+      "time_evening": "18:46",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 12,
+          "task": "[dev] ROIC CocoTB: SPI bus test"
+        }
+      ]
+    },
+    "84": {
+      "date": "2021/11/30",
+      "time_morning": "10:42",
+      "time_evening": "17:33",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC CocoTB: SPI bus test, handle reg arrays"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC CocoTB: SPI bus test, check reg wr/rd stat"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] sync to sos"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] learn Virtuoso analog stuff"
+        }
+      ]
+    },
+    "85": {
+      "date": "2021/12/01",
+      "time_morning": "10:18",
+      "time_evening": "18:22",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] learn Virtuoso analog stuff, verilog models"
+        }
+      ]
+    },
+    "86": {
+      "date": "2021/12/02",
+      "time_morning": "10:14",
+      "time_evening": "18:47",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 14,
+          "task": "[dev] Prepare escort top netlist"
+        }
+      ]
+    },
+    "87": {
+      "date": "2021/12/03",
+      "time_morning": "10:35",
+      "time_evening": "14:20",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Prepare escort top netlist: remove supply, replace pull-up/down, move undefined units to lib"
+        }
+      ]
+    },
+    "88": {
+      "date": "2021/12/06",
+      "time_morning": "11:21",
+      "time_evening": "19:08",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 9,
+          "task": "[dev] ROIC CocoTB: Rearrange class hierarchy"
+        }
+      ]
+    },
+    "89": {
+      "date": "2021/12/07",
+      "time_morning": "10:27",
+      "time_evening": "19:42",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 10,
+          "task": "dev] ROIC CocoTB: Rearrange class hierarchy"
+        }
+      ]
+    },
+    "90": {
+      "date": "2021/12/08",
+      "time_morning": "11:09",
+      "time_evening": "20:17",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 13,
+          "task": "[dev] ROIC CocoTB: Rearrange class hierarchy"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] escort netlist fix"
+        }
+      ]
+    },
+    "91": {
+      "date": "2021/12/09",
+      "time_morning": "11:27",
+      "time_evening": "18:56",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] ROIC CocoTB: Rearrange class hierarchy. Add scoreboard use"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] Remove roic reference from coco tb"
+        }
+      ]
+    },
+    "92": {
+      "date": "2021/12/10",
+      "time_morning": "11:07",
+      "time_evening": "13:02",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[pri] add repair spentsheet to drive"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] update top netlist"
+        }
+      ]
+    },
+    "93": {
+      "date": "2021/12/13",
+      "time_morning": "10:56",
+      "time_evening": "18:32",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[learn] CocoTB coverage support"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] ROIC CocoTB: Add coverage support"
+        }
+      ]
+    },
+    "94": {
+      "date": "2021/12/14",
+      "time_morning": "11:27",
+      "time_evening": "18:54",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] verify ROIC update"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[learn] CocoTB coverage support"
+        }
+      ]
+    },
+    "95": {
+      "date": "2021/12/15",
+      "time_morning": "12:49",
+      "time_evening": "17:56",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] design synthesis"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[env] check ROIC update"
+        }
+      ]
+    },
+    "96": {
+      "date": "2021/12/16",
+      "time_morning": "12:12",
+      "time_evening": "15:29",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] write mail about reg update during mce fe, ddr bit order, ddr sync"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[def] check ROIC update"
+        }
+      ]
+    },
+    "97": {
+      "date": "2021/12/17",
+      "time_morning": "10:51",
+      "time_evening": "19:06",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 18,
+          "task": "[dev] ROIC CocoTB: Add coverage support"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] netlist"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] ROIC CocoTB: Add coverpoint support"
+        }
+      ]
+    },
+    "98": {
+      "date": "2021/12/21",
+      "time_morning": "11:01",
+      "time_evening": "19:13",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Netlist TB"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] ROIC CocoTB: Add coverage support"
+        }
+      ]
+    },
+    "99": {
+      "date": "2021/12/22",
+      "time_morning": "10:41",
+      "time_evening": "19:53",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] ROIC CocoTB: Add SPI cross coverage: bins"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] Upload cocotb rock to github"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] ROIC CocoTB: Custom trx compare"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] ROIC CocoTB: Handle different seeds"
+        }
+      ]
+    },
+    "100": {
+      "date": "2021/12/23",
+      "time_morning": "10:02",
+      "time_evening": "18:51",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] answer netlist mail"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[dev] ROIC CocoTB: Add custom trx compare func to Rock"
+        }
+      ]
+    },
+    "101": {
+      "date": "2021/12/24",
+      "time_morning": "11:05",
+      "time_evening": "18:54",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 13,
+          "task": "[dev] ROIC CocoTB: Add trx.store/ think about trx.print"
+        }
+      ]
+    },
+    "102": {
+      "date": "2021/12/28",
+      "time_morning": "10:50",
+      "time_evening": "16:34",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] ROIC CocoTB: Add wr trx monitoring"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] ROIC CocoTB: Remove 'unsupported' regs support"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] ROIC CocoTB: add covered cases exclude from rand"
+        }
+      ]
+    },
+    "103": {
+      "date": "2021/12/29",
+      "time_morning": "12:46",
+      "time_evening": "18:22",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC CocoTB: add covered cases exclude from rand (static var decorator)"
+        }
+      ]
+    },
+    "104": {
+      "date": "2021/12/30",
+      "time_morning": "10:07",
+      "time_evening": "17:40",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 11,
+          "task": "[dev] ROIC CocoTB: refactor coverage feature, add covered_bins detection"
+        }
+      ]
+    },
+    "105": {
+      "date": "2022/01/04",
+      "time_morning": "11:37",
+      "time_evening": "19:12",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 7,
+          "task": "[dev] CocoTB: calculate new_hits for cover cross"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB: rethink 'test_goal_achived()' feature"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[env] CocoTB contr"
+        }
+      ]
+    },
+    "106": {
+      "date": "2022/01/05",
+      "time_morning": "12:28",
+      "time_evening": "18:31",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] ROIC CocoTB SPI test with covered bins usage"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] git setup"
+        }
+      ]
+    },
+    "107": {
+      "date": "2022/01/06",
+      "time_morning": "10:36",
+      "time_evening": "20:06",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 12,
+          "task": "[dev] CocoTB: Add coverage base class"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB SPI test: Fix coverage range"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB: Upgrade monitor to extarct reg addr"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB: Add reset handle callback"
+        }
+      ]
+    },
+    "108": {
+      "date": "2022/01/10",
+      "time_morning": "10:55",
+      "time_evening": "17:25",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[meeting] CocoTB: contr: write about inj"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB:upload inheritance bug fix"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB:upgrade ignore_bin feature"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB: check CoverItem order: point, cross,.."
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB: coverage_processor add callback"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB test template"
+        }
+      ]
+    },
+    "109": {
+      "date": "2022/01/11",
+      "time_morning": "11:16",
+      "time_evening": "11:16",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] CocoTB test template"
+        }
+      ]
+    },
+    "110": {
+      "date": "2022/01/12",
+      "time_morning": "11:16",
+      "time_evening": "18:00",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] CocoTB test template"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] CocoTB check random issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB SPI test: update coverage and run test"
+        }
+      ]
+    },
+    "111": {
+      "date": "2022/01/13",
+      "time_morning": "10:05",
+      "time_evening": "13:09",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] Update ignore bins"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] Think how to link CoverProcessor with Trx"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] Run SPI tests"
+        }
+      ]
+    },
+    "112": {
+      "date": "2022/01/14",
+      "time_morning": "10:38",
+      "time_evening": "11:09",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] fix SPI test run issue"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[learn] vlsi-expert"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] add time to test log"
+        }
+      ]
+    },
+    "113": {
+      "date": "2022/01/17",
+      "time_morning": "11:09",
+      "time_evening": "18:27",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[learn] vlsi-expert"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] CocoTB contr"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] CocoTB add time reporting"
+        }
+      ]
+    },
+    "114": {
+      "date": "2022/01/18",
+      "time_morning": "11:18",
+      "time_evening": "19:00",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[learn] vlsi-expert: d flip flop"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[learn] vlsi-expert"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] SPI test, commit"
+        }
+      ]
+    },
+    "115": {
+      "date": "2022/01/19",
+      "time_morning": "15:28",
+      "time_evening": "18:21",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 6,
+          "task": "[learn] vlsi-expert"
+        }
+      ]
+    },
+    "116": {
+      "date": "2022/01/20",
+      "time_morning": "10:58",
+      "time_evening": "17:40",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[learn] cdc"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "English"
+        }
+      ]
+    },
+    "117": {
+      "date": "2022/01/24",
+      "time_morning": "10:37",
+      "time_evening": "20:05",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[meeting] ROIC ISO tests, prepare"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[env] setup"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 3,
+          "task": "[dev] sync to sos"
+        }
+      ]
+    },
+    "118": {
+      "date": "2022/02/15",
+      "time_morning": "09:56",
+      "time_evening": "21:09",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] sync to sos"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] run crc sim"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 8,
+          "task": "[dev] crc tb"
+        }
+      ]
+    },
+    "119": {
+      "date": "2022/02/17",
+      "time_morning": "09:38",
+      "time_evening": "18:00",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] Run mbist sim"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 5,
+          "task": "[dev] prepare mbist doc"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] add proper gold CRC func"
+        }
+      ]
+    },
+    "120": {
+      "date": "2022/02/18",
+      "time_morning": "12:52",
+      "time_evening": "23:20",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 13,
+          "task": "[doc] update ISO doc"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 1,
+          "task": "[dev] add proper gold CRC func"
+        }
+      ]
+    },
+    "121": {
+      "date": "2022/02/21",
+      "time_morning": "10:41",
+      "time_evening": "18:11",
+      "todo_item": [
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 4,
+          "task": "[dev] update ISO doc"
+        },
+        {
+          "est": 0,
+          "sta": 0,
+          "pom": 2,
+          "task": "[dev] split todo and scrpt repos"
+        }
+      ]
+    }
+  },
+  "todo_sometime": {
+    "1": {
+      "task": "[env] Fix Centos pomodoro app",
+      "date": "2021/10/13"
+    },
+    "2": {
+      "task": "[learn] vlsi-expert",
+      "date": "2021/11/04"
+    },
+    "3": {
+      "task": "[dev] split todo and scrpt repos",
+      "date": "2022/02/15"
+    }
+  }
+}

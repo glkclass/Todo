@@ -1,0 +1,123 @@
+[
+  {
+    "caption": "Todo",
+    "children": [
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "TODO info\tUpdate",
+        "command": "todo_info_update",
+        "id": "todo_info_update"
+      },
+      {
+        "caption": "TODO info\tSave",
+        "command": "todo_info_save",
+        "id": "todo_info_save"
+      },
+      {
+        "caption": "TODO table\tOpen",
+        "command": "todo_tbl_open",
+        "id": "todo_tbl_open"
+      },
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "TODO table\tNew",
+        "children": [
+          {
+            "caption": "Today&Sometime&History",
+            "command": "todo_tbl_new",
+            "id": "todo_today_sometime_history_tbl_new",
+            "args": {
+              "show_todo_history": true,
+              "show_todo_sometime": true
+            }            
+          },
+          {
+            "caption": "Today",
+            "command": "todo_tbl_new",
+            "id": "todo_today_tbl_new"
+          },
+          {
+            "caption": "Today&Sometime",
+            "command": "todo_tbl_new",
+            "id": "todo_today_sometime_tbl_new",
+            "args": {
+              "show_todo_sometime": true
+            }
+          },
+          {
+            "caption": "Today&History",
+            "command": "todo_tbl_new",
+            "id": "todo_today_sometime_tbl_new",
+            "args": {
+              "show_todo_history": true
+            }
+          }
+        ]
+      },
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "TODO table\tView",
+        "children": [
+          {
+            "caption": "Today&Sometime&History",
+            "command": "todo_tbl_view",
+            "id": "todo_today_sometime_history_tbl_view",
+            "args": {
+              "show_todo_history": true,
+              "show_todo_sometime": true
+            }
+          },
+          {
+            "caption": "Today",
+            "command": "todo_tbl_view",
+            "id": "todo_today_tbl_view"
+          },
+          {
+            "caption": "Today&Sometime",
+            "command": "todo_tbl_view",
+            "id": "todo_today_sometime_tbl_view",
+            "args": {
+              "show_todo_sometime": true
+            }
+          },
+          {
+            "caption": "Today&History",
+            "command": "todo_tbl_view",
+            "id": "todo_today_history_tbl_view",
+            "args": {
+              "show_todo_history": true
+            }
+          }
+        ]
+      },
+      {
+        "caption": "-"
+      },
+      {
+        "caption": "TODO\t\t\tUtils",
+        "children": [
+          {
+            "caption": "DB unlink",
+            "command": "todo_db_unlink",
+            "id": "todo_db_unlink"
+          },
+          {
+            "caption": "DB link",
+            "command": "todo_db_link",
+            "id": "todo_db_link"
+          }
+        ]
+      },
+      {
+        "caption": "-"
+      }
+    ],
+    "id": "todo_context"
+  }
+]
