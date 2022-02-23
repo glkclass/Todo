@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+todo.pom
+todo_db.json
+Main.sublime-manu
 __pycache__/
 *.py[cod]
 *$py.class
