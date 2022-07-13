@@ -1,0 +1,17 @@
+{
+    "target": "todo_info_update",
+    "selector": "text.todo",
+    "variants":
+    [
+        {
+            "name": "New",
+            "target": "todo_tbl_new",
+        },
+
+        {
+            "name": "Save",
+            "target": "todo_info_save",
+        },
+
+    ]
+}

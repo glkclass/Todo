@@ -29,23 +29,23 @@
           {
             "caption": "Today&Sometime&History",
             "command": "todo_tbl_new",
-            "id": "todo_today_sometime_history_tbl_new",
-            "args": {
-              "show_todo_history": true,
-              "show_todo_sometime": true
-            }            
+            "id": "todo_today_sometime_history_tbl_new"
           },
           {
             "caption": "Today",
             "command": "todo_tbl_new",
-            "id": "todo_today_tbl_new"
+            "id": "todo_today_tbl_new",
+            "args": {
+              "show_todo_history": false,
+              "show_todo_sometime": false
+            }
           },
           {
             "caption": "Today&Sometime",
             "command": "todo_tbl_new",
             "id": "todo_today_sometime_tbl_new",
             "args": {
-              "show_todo_sometime": true
+              "show_todo_history": false
             }
           },
           {
@@ -53,7 +53,7 @@
             "command": "todo_tbl_new",
             "id": "todo_today_sometime_tbl_new",
             "args": {
-              "show_todo_history": true
+              "show_todo_sometime": false
             }
           }
         ]

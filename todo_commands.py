@@ -48,7 +48,7 @@ class TodoTaskCmdCommand(sublime_plugin.WindowCommand):
 
 
 class TodoTblNewCommand(sublime_plugin.WindowCommand):
-    def run(self, show_todo_sometime=False, show_todo_history=False):
+    def run(self, show_todo_sometime=True, show_todo_history=True):
         todo.todo_tbl_new_cmd(show_todo_sometime, show_todo_history)
         sublime.active_window().open_file(todo.settings['path_pom'])
         sublime.status_message("Empty TODO table was generated")

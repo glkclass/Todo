@@ -565,7 +565,7 @@ class Todo(object):
         return
 
     def todo_tbl_new_cmd(
-            self, show_todo_sometime=False, show_todo_history=False):
+            self, show_todo_sometime=True, show_todo_history=True):
         """
         Generate TODO tables and display them in todo.pom
 

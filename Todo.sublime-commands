@@ -1,0 +1,7 @@
+[
+    { "caption": "Todo: Info New", "command": "todo_tbl_new"},
+    { "caption": "Todo: Info Update", "command": "todo_info_update" },
+    { "caption": "Todo: Info Save", "command": "todo_info_save" },
+    { "caption": "Todo: Table Open", "command": "todo_tbl_open" },
+
+]
