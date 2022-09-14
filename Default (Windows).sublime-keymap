@@ -1,0 +1,24 @@
+[
+    {
+        "keys": ["f1"],
+        "command": "todo_tbl_open"
+    },
+
+    {
+        "keys": ["f7"],
+        "command": "todo_info_update",
+        "context": [{"key": "selector", "operator": "equal", "operand": "text.todo"}]
+    },
+
+    {
+        "keys": ["f5"],
+        "command": "todo_info_save",
+        "context": [{"key": "selector", "operator": "equal", "operand": "text.todo"}]
+    },
+
+    {
+        "keys": ["ctrl+f7"],
+        "command": "todo_tbl_new",
+        "context": [{"key": "selector", "operator": "equal", "operand": "text.todo"}]
+    },
+]

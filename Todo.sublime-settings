@@ -1,6 +1,6 @@
 {
 	"pythonpath": [
-		"/home/anton/.local/lib/python3.6/site-packages",
+		"/home/anton/.local/lib/python3.8/site-packages",
 		"/home/anton/.config/sublime-text/Packages/Todo",
 		"/home/anton/design/scrpt"],
 	"extensions":["pom"],
