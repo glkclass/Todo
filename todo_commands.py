@@ -15,8 +15,8 @@ todo = None
 def plugin_loaded():
     """Called once by Sublime when plugin loaded"""
 
-    print (f"[todo_commands] Python {sys.version}")
-    
+    print(f"[todo_commands] Python {sys.version}")
+
     # Combine and load settings
     settings = sublime.load_settings('Todo.sublime-settings')
 
@@ -37,6 +37,7 @@ def plugin_loaded():
 
     # create Todo instance
     global todo
+    # print(sys.path)
     from todo.Todo import Todo
     todo = Todo(todo_settings)
 

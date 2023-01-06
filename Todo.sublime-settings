@@ -1,8 +1,8 @@
 {
 	"pythonpath": [
-		"/home/anton/.local/lib/python3.8/site-packages",
-		"/home/anton/.config/sublime-text/Packages/Todo",
-		"/home/anton/design/scrpt"],
+		"c:/Users/avv/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0/LocalCache/local-packages/Python38/site-packages",
+		"c:/Users/avv/AppData/Roaming/Sublime Text/Packages/Todo",
+		"c:/_d/design/scrpt"],
 	"extensions":["pom"],
 	"todo": {},
 }
